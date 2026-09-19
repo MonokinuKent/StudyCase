@@ -14,3 +14,6 @@ Proyek ini merupakan implementasi pembuatan tampilan **website** Profile Card in
 
 ## Tautan Repositori
 [https://github.com/MonokinuKent/StudyCase](https://github.com/MonokinuKent/StudyCase)
+
+## Tautan Live Demo
+[https://monokinukent.github.io/StudyCase/](https://monokinukent.github.io/StudyCase/)
